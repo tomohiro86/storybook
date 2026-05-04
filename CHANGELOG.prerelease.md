@@ -1,3 +1,7 @@
+## 10.4.0-alpha.16
+
+- Automigration: Move RN on-device addons to `deviceAddons` - [#34659](https://github.com/storybookjs/storybook/pull/34659), thanks @ndelangen!
+
 ## 10.4.0-alpha.15
 
 - Vitest: Fix agent detection breaking runs - [#34681](https://github.com/storybookjs/storybook/pull/34681), thanks @JReinhold!
